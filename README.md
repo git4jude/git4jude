@@ -12,7 +12,7 @@
 
 <h1 data-importer="text" align="center">hey there 👋</h1>
 
-###
+<hr>
 
 <h3 data-importer="text" align="left">👨‍💻 About Me</h3>
 
@@ -20,9 +20,9 @@
 
 <h4 data-importer="text" align="left">👋 I'm a Computer Science undergraduate student from Sri Lanka, currently working as a Software Engineer Intern.<br><br>🔭 Deep-diving into Full-Stack Development and DevOps, with a strong interest in cloud-native infrastructure.<br><br>💻 Comfortable across the stack — React on the frontend, and a growing love for CI/CD, containers, and modern web technologies</h4>
 
-###
+<hr>
 
-<h2 data-importer="text" align="left">🛠️ Languages & Tools</h2>
+<h3 data-importer="text" align="left">🛠️ Languages & Tools</h3>
 
 ###
 
@@ -88,7 +88,7 @@
   <img src="https://skillicons.dev/icons?i=notion" height="34" alt="notion logo"  />
 </div>
 
-###
+<hr>
 
 <h3 data-importer="text" align="left">📊 My GitHub Stats</h3>
 
@@ -99,7 +99,7 @@
   <img src="https://raw.githubusercontent.com/git4jude/git4jude/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
 </div>
 
-###
+<hr>
 
 <h3 data-importer="text" align="left">🎮 Contribution Graph</h3>
 
@@ -111,7 +111,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/git4jude/git4jude/pacman-output/breakout-contribution-graph.svg?game=breakout">
 </picture>
 
-###
+<hr>
 
 <h3 data-importer="text" align="left">✍️ Latest from My Blog</h3>
 
@@ -123,7 +123,7 @@
   </a>
 </div>
 
-###
+<hr>
 
 <h3 data-importer="text" align="left">🌐 Connect With Me</h3>
 
