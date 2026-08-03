@@ -1,5 +1,5 @@
-<div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=30&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 ###
@@ -12,17 +12,17 @@
 
 <h1 data-importer="text" align="center">hey there 👋</h1>
 
-<hr>
+###
 
-<h3 data-importer="text" align="left">👨‍💻 About Me</h3>
+<h2 data-importer="text" align="left">👨‍💻 About Me</h2>
 
 ###
 
 <h4 data-importer="text" align="left">👋 I'm a Computer Science undergraduate student from Sri Lanka, currently working as a Software Engineer Intern.<br><br>🔭 Deep-diving into Full-Stack Development and DevOps, with a strong interest in cloud-native infrastructure.<br><br>💻 Comfortable across the stack — React on the frontend, and a growing love for CI/CD, containers, and modern web technologies</h4>
 
-<hr>
+###
 
-<h3 data-importer="text" align="left">🛠️ Languages & Tools</h3>
+<h2 data-importer="text" align="left">🛠️ Languages & Tools</h2>
 
 ###
 
@@ -88,9 +88,9 @@
   <img src="https://skillicons.dev/icons?i=notion" height="34" alt="notion logo"  />
 </div>
 
-<hr>
+###
 
-<h3 data-importer="text" align="left">📊 My GitHub Stats</h3>
+<h2 data-importer="text" align="left">📊 My GitHub Stats</h2>
 
 ###
 
@@ -99,9 +99,9 @@
   <img src="https://raw.githubusercontent.com/git4jude/git4jude/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
 </div>
 
-<hr>
+###
 
-<h3 data-importer="text" align="left">🎮 Contribution Graph</h3>
+<h2 data-importer="text" align="left">🎮 Contribution Graph</h2>
 
 ###
 
@@ -111,9 +111,9 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/git4jude/git4jude/pacman-output/breakout-contribution-graph.svg?game=breakout">
 </picture>
 
-<hr>
+###
 
-<h3 data-importer="text" align="left">✍️ Latest from My Blog</h3>
+<h2 data-importer="text" align="left">✍️ Latest from My Blog</h2>
 
 ###
 
@@ -123,22 +123,28 @@
   </a>
 </div>
 
-<hr>
+###
 
-<h3 data-importer="text" align="left">🌐 Connect With Me</h3>
+<h2 data-importer="text" align="left">🌐 Connect With Me</h2>
 
 ###
 
 <br clear="both">
 
-<div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=plastic" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=plastic" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=plastic" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=plastic" height="35" alt="behance logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=plastic" height="35" alt="telegram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=plastic" height="35" alt="facebook logo"  />
+<div data-importer="socials" align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
+  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+</div>
+
+###
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=30&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 ###
