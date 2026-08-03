@@ -6,12 +6,6 @@
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=git4jude.git4jude&"  />
 </div>
 
-###
-
-<h3 data-importer="text" align="center">hey there 👋</h3>
-
-###
-
 <h2 data-importer="text" align="left">👨‍💻 About Me</h2>
 
 ###
