@@ -1,51 +1,32 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
-</div>
-
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> It's Judechihan</h1>
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=git4jude.git4jude&left_text=Profile%20visitors"  />
+<div data-importer="image" align="center">
+  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
 ###
 
-<h2 align="left">👩‍💻 About Me...</h2>
-
-###
-
-<h3 align="left">I'm from Sri Lanka...<br>   - 🔭 I'm an Undergraduate Computer Science Student.<br>   - 📚 I'm currently learning DevOps, Full Stack, and Mobile app Development.<br>   - ⚡ In my free time I work on turning my ideas into reality.</h3>
-
-###
-
-<h2 align="left">🔗 Connect with me....</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.facebook.com/profile.php?id=61563287920654" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="30" alt="facebook logo"  />
-  </a>
-  <a href="mailto:judechihan727@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="30" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/judejochimson_judechihan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="30" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/judechihan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.gg/HTwUpwyrfG" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="30" alt="discord logo"  />
-  </a>
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=git4jude.git4jude&"  />
 </div>
 
 ###
 
-<h2 align="left">🛠 Language & Tools...</h2>
+<h1 data-importer="text" align="center">hey there 👋</h1>
 
 ###
-<div align="left">
+
+<h3 data-importer="text" align="left">👨‍💻 About Me</h3>
+
+###
+
+<h4 data-importer="text" align="left">👋 I'm a Computer Science undergraduate student from Sri Lanka, currently working as a Software Engineer Intern.<br><br>🔭 Deep-diving into Full-Stack Development and DevOps, with a strong interest in cloud-native infrastructure.<br><br>💻 Comfortable across the stack — React on the frontend, and a growing love for CI/CD, containers, and modern web technologies</h4>
+
+###
+
+<h2 data-importer="text" align="left">🛠️ Languages & Tools</h2>
+
+###
+
+<div data-importer="techs" align="left">
   <img src="https://skillicons.dev/icons?i=linux" height="34" alt="linux logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=git" height="34" alt="git logo"  />
@@ -107,28 +88,57 @@
   <img src="https://skillicons.dev/icons?i=notion" height="34" alt="notion logo"  />
 </div>
 
-<h2 align="left">🔥 My Stats...</h2>
+###
+
+<h3 data-importer="text" align="left">📊 My GitHub Stats</h3>
 
 ###
 
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=git4jude&show_icons=true&theme=radical&count_private=true" height="150" alt="git4jude Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=git4jude&theme=radical" height="150" alt="git4jude Streak" /><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=git4jude&radius=16&theme=redical&area=true&order=5&hide_border=true&hide_title=false" height="165" alt="activity-graph graph"/>
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=git4jude&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/git4jude/git4jude/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
 </div>
 
 ###
 
-<h2 align="left">🚀 Gotta Commit 'Em All...</h2>
+<h3 data-importer="text" align="left">🎮 Contribution Graph</h3>
 
 ###
 
-<img src="https://raw.githubusercontent.com/git4jude/git4jude/output/snake.svg" alt="Snake animation" />
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/git4jude/git4jude/pacman-output/breakout-contribution-graph-dark.svg?game=breakout">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/git4jude/git4jude/pacman-output/breakout-contribution-graph.svg?game=breakout">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/git4jude/git4jude/pacman-output/breakout-contribution-graph.svg?game=breakout">
+</picture>
 
 ###
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+<h3 data-importer="text" align="left">✍️ Latest from My Blog</h3>
+
+###
+
+<div data-importer="activities" align="center" style="width: 100%">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@Judechihan/0">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@Judechihan/0" alt="Medium post 1"  />
+  </a>
+</div>
+
+###
+
+<h3 data-importer="text" align="left">🌐 Connect With Me</h3>
+
+###
+
+<br clear="both">
+
+<div data-importer="socials" align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=plastic" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=plastic" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=plastic" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=plastic" height="35" alt="behance logo"  />
+  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=plastic" height="35" alt="telegram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=plastic" height="35" alt="facebook logo"  />
 </div>
 
 ###
