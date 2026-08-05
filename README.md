@@ -1,16 +1,12 @@
-<div align="center"> <img src="https://cdn.phototourl.com/free/2026-08-03-8016afba-c2dd-469e-b427-ae7ca70ec109.jpg" alt="banner" width="100%" /> </div>
+<div align="center">
+  <img src="https://githubcard.com/g/FilNaXEcrrkc.svg" alt="GitHubCard profile card for git4jude" />
+</div>
 
 ###
 
 <div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=git4jude.git4jude&"  />
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=git4jude.git4jude&" />
 </div>
-
-<h2 data-importer="text" align="left">👨‍💻 About Me</h2>
-
-###
-
-<h4 data-importer="text" align="left">👋 I'm a Computer Science undergraduate student from Sri Lanka, currently working as a Software Engineer Intern.<br><br>🔭 Deep-diving into Full-Stack Development and DevOps, with a strong interest in cloud-native infrastructure.<br><br>💻 Comfortable across the stack — React on the frontend, and a growing love for CI/CD, containers, and modern web technologies</h4>
 
 ###
 
