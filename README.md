@@ -87,8 +87,8 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=git4jude&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/git4jude/git4jude/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+  <img src="https://readme-stats-github.pages.dev/api?username=git4jude&theme=shadow" height="180" alt="github stats" />
+  <img src="https://readme-stats-github.pages.dev/api/top-langs?username=git4jude&theme=shadow" height="180" alt="top languages" />
 </div>
 
 ###
