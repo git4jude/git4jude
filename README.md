@@ -86,6 +86,9 @@
   <img src="https://readme-stats-github.pages.dev/api?username=git4jude&theme=shadow" height="180" alt="github stats" />
   <img src="https://readme-stats-github.pages.dev/api/top-langs?username=git4jude&theme=shadow" height="180" alt="top languages" />
 </div>
+<div data-importer="stats" align="center">
+  <img src="https://githubcard.com/git4jude.svg?d=tB0FBuBBtkb9" alt="GitHubCard stats for git4jude" />
+</div>
 
 ###
 
