@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://githubcard.com/git4jude.svg?d=XdAWdu9PZTbn" alt="GitHubCard profile card for git4jude" />
+  <img src="[https://githubcard.com/git4jude.svg?d=XdAWdu9PZTbn](https://githubcard.com/git4jude.svg?d=tB0FBuBBtkb9)" alt="GitHubCard profile card for git4jude" />
 </div>
 
 ###
