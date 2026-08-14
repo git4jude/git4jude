@@ -21,7 +21,7 @@
 
 
 ## 📊 GitHub Stats
-<p align="center"><img width="390" src="https://github-readme-stats-eight-theta.vercel.app/api?username=git4jude&cache_seconds=7200&layout=compact&theme=github_dark&border_radius=10&bg_color=0d1117" alt="git4jude's GitHub Stats" />&nbsp;&nbsp;<img width="390" src="https://streak-stats.demolab.com/?user=git4jude&theme=github_dark&hide_border=false&border_radius=10&cache_seconds=86400" alt="git4jude's GitHub Streak" /></p>
+<p align="center"><img width="390" src="https://github-readme-stats-eight-theta.vercel.app/api?username=git4jude&cache_seconds=7200&layout=compact&theme=github_dark&border_radius=10&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff&border_color=39d353" alt="git4jude's GitHub Stats" />&nbsp;&nbsp;<img width="390" src="https://streak-stats.demolab.com/?user=git4jude&theme=github_dark&hide_border=false&border_radius=10&cache_seconds=86400&border=39d353" alt="git4jude's GitHub Streak" /></p>
 
 
 ## 🛠️ Languages & Tools
