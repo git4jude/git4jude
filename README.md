@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="Banner" width="100%" />
+<img src="https://i.pinimg.com/originals/e0/93/3c/e0933cfe30da2c82232d339dc0e64eb6.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - 🔭 I'm an Undergraduate Computer Science Student with a passion for building things that matter.
