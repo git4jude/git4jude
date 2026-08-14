@@ -20,7 +20,7 @@
 - ⚙️ DevOps : I automate infrastructure and streamline deployment pipelines to ship faster and more reliably.
 
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/git4jude">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=git4jude&cache_seconds=7200&layout=compact&theme=github_dark&border_radius=10" alt="git4jude's GitHub Stats" />
