@@ -127,7 +127,6 @@
 <br>
 
 <h2 align="left">🔗 Connect with me....</h2>
-###
 <div align="left">
   <a href="https://www.facebook.com/profile.php?id=61563287920654" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="30" alt="facebook logo"  />
