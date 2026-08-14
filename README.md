@@ -9,20 +9,28 @@
 
 <img src="https://i.pinimg.com/originals/eb/7f/0c/eb7f0ccf927c93aeedbb3cf100d6fd29.gif" alt="Banner" width="100%" />
 
+<br>
+
 ## 📌 About Me
+
 - 🔭 I'm an Undergraduate Computer Science Student with a passion for building things that matter.
 - 📚 I'm currently deepening my skills in DevOps and Full Stack Development.
 - ⚡ In my free time, I turn scattered ideas into real, working projects.
 
+<br>
 
 ## 🧠 My Focus Areas
+
 - 🛠️ Software Engineering : I build robust, scalable applications with clean, maintainable code.
 - ⚙️ DevOps : I automate infrastructure and streamline deployment pipelines to ship faster and more reliably.
 
+<br>
 
 ## 📊 GitHub Stats
+
 <p align="center"><img width="390" src="https://github-readme-stats-eight-theta.vercel.app/api?username=git4jude&cache_seconds=7200&layout=compact&theme=github_dark&border_radius=10&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff&border_color=39d353" alt="git4jude's GitHub Stats" />&nbsp;&nbsp;<img width="390" src="https://streak-stats.demolab.com/?user=git4jude&theme=github_dark&hide_border=false&border_radius=10&cache_seconds=86400&border=39d353" alt="git4jude's GitHub Streak" /></p>
 
+<br>
 
 ## 🛠️ Languages & Tools
 
@@ -103,9 +111,11 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=notion" height="34" alt="notion" />
 </div>
-</p>
+
+<br>
 
 ## 🔗 Connect with Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/judechihan">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
@@ -121,6 +131,8 @@
   </a>
 </p>
 
+<br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
@@ -130,4 +142,3 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
-
