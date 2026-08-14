@@ -31,8 +31,8 @@
 
 ## 🛠️ Languages & Tools
 
-<h3 align="center">OS & Version Control</h3>
-<div align="center">
+<h3 align="left">OS & Version Control</h3>
+<div align="left">
   <img src="https://skillicons.dev/icons?i=linux" height="34" alt="linux" />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=git" height="34" alt="git" />
@@ -40,8 +40,8 @@
   <img src="https://skillicons.dev/icons?i=github" height="34" alt="github" />
 </div>
 
-<h3 align="center">Programming Languages</h3>
-<div align="center">
+<h3 align="left">Programming Languages</h3>
+<div align="left">
   <img src="https://skillicons.dev/icons?i=java" height="34" alt="java" />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=js" height="34" alt="javascript" />
@@ -55,8 +55,8 @@
   <img src="https://skillicons.dev/icons?i=css" height="34" alt="css" />
 </div>
 
-<h3 align="center">Frontend</h3>
-<div align="center">
+<h3 align="left">Frontend</h3>
+<div align="left">
   <img src="https://skillicons.dev/icons?i=react" height="34" alt="react" />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="34" alt="nextjs" />
@@ -64,8 +64,8 @@
   <img src="https://skillicons.dev/icons?i=tailwind" height="34" alt="tailwindcss" />
 </div>
 
-<h3 align="center">Backend & Databases</h3>
-<div align="center">
+<h3 align="left">Backend & Databases</h3>
+<div align="left">
   <img src="https://skillicons.dev/icons?i=nodejs" height="34" alt="nodejs" />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="34" alt="mongodb" />
@@ -79,8 +79,8 @@
   <img src="https://cdn.simpleicons.org/appwrite/F02E65" height="34" alt="appwrite" />
 </div>
 
-<h3 align="center">DevOps & Cloud</h3>
-<div align="center">
+<h3 align="left">DevOps & Cloud</h3>
+<div align="left">
   <img src="https://skillicons.dev/icons?i=docker" height="34" alt="docker" />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=kubernetes" height="34" alt="kubernetes" />
@@ -100,8 +100,8 @@
   <img src="https://skillicons.dev/icons?i=grafana" height="34" alt="grafana" />
 </div>
 
-<h3 align="center">Design & Productivity</h3>
-<div align="center">
+<h3 align="left">Design & Productivity</h3>
+<div align="left">
   <img src="https://skillicons.dev/icons?i=figma" height="34" alt="figma" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="34" alt="canva" />
