@@ -31,59 +31,83 @@
 
 ## 🛠️ Languages & Tools
 
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" />
+<h3 align="center">OS & Version Control</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=linux" height="34" alt="linux" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=git" height="34" alt="git" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=github" height="34" alt="github" />
+</div>
 
-</p>
+<h3 align="center">Programming Languages</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java" height="34" alt="java" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=js" height="34" alt="javascript" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=ts" height="34" alt="typescript" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=py" height="34" alt="python" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=html" height="34" alt="html5" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=css" height="34" alt="css" />
+</div>
 
 <h3 align="center">Frontend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react" height="34" alt="react" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="34" alt="nextjs" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="34" alt="tailwindcss" />
+</div>
 
-</p>
-
-<h3 align="center">Backend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" />
-
-</p>
-
-<h3 align="center">Database</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
-
-</p>
+<h3 align="center">Backend & Databases</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="34" alt="nodejs" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="34" alt="mongodb" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="34" alt="postgresql" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="34" alt="firebase" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="34" alt="supabase" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/appwrite/F02E65" height="34" alt="appwrite" />
+</div>
 
 <h3 align="center">DevOps & Cloud</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker" height="34" alt="docker" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="34" alt="kubernetes" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=aws" height="34" alt="aws" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="34" alt="jenkins" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=ansible" height="34" alt="ansible" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="34" alt="terraform" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/argo/EF7B4D" height="34" alt="argocd" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=prometheus" height="34" alt="prometheus" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=grafana" height="34" alt="grafana" />
+</div>
 
-</p>
-
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />
-
+<h3 align="center">Design & Productivity</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=figma" height="34" alt="figma" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="34" alt="canva" />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=notion" height="34" alt="notion" />
+</div>
 </p>
 
 ## 🔗 Connect with Me
